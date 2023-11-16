@@ -1,5 +1,5 @@
 # Pega-Flight-Booking-8.8
-# Air'Z Flight Booking System
+# Air'Z Flight Booking System.
 
 Welcome to the Air'Z Flight Booking System GitHub repository! This repository contains the source code and documentation for our flight booking application.
 
